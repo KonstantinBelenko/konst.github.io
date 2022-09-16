@@ -51,6 +51,8 @@ More on my skills
 * NextJS 5/10
 * C# 3/10
 * C++ 3/10
+
+### Databases
 * MySQL
 * PostgreSQL
 * SQLight
