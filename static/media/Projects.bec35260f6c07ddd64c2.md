@@ -1,7 +1,7 @@
 # Personal projects
 Some of my best personal projects.
 
-## Hasp, probably
+## DevOps projects
 
 ## JS fabric simulator
 
