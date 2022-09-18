@@ -23,37 +23,13 @@ deployments using Kubernetes engine, NGINX Load balancer, Jenkins for CI/CD auto
 More on my skills
 
 ### DevOps skills
-* Ansible
-* Terraform
-* Jenkins
-* Github
-* Gitlab
-* Agile
-* Jira / Notion
-* Bash
-* Linux
-* Networking
-* Docker
-* Kubernetes
+***Ansible*** / ***Terraform*** / ***Jenkins*** / ***Github*** / ***Gitlab*** / ***Agile*** / ***Jira*** / ***Notion*** / ***Bash*** / ***Linux*** / ***Networking*** / ***Docker*** / ***Kubernetes***
 
-### Cloud Skills
-* AWS
-* GCP
-* Load Balancing
-* Autoscaling
-* Clustering
+### Cloud Skills 
+***AWS*** / ***GCP*** / ***Load Balancing*** / ***Autoscaling*** / ***Clustering***
 
 ### General Developer Skills
-* Python 9/10
-* JavaScript 7/10
-* NodeJS 6/10
-* React 5/10
-* NextJS 5/10
-* C# 3/10
-* C++ 3/10
+***Python 9/10*** / ***JavaScript 7/10*** / ***NodeJS 6/10*** / ***React 5/10*** / ***NextJS 5/10*** / ***C# 3/10*** / ***C++ 3/10***
 
 ### Databases
-* MySQL
-* PostgreSQL
-* SQLight
-* Redis
+***MySQL*** / ***PostgreSQL*** / ***SQLight*** / ***Redis***
